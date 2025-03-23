@@ -1,0 +1,5 @@
+exp_name = sample
+data_dir = ./testData
+sample_std_dev = [0.08, 0.02, 0.003]
+sample_ratio = [0.01, 0.49, 0.5]
+exp_dir = ./weights/
