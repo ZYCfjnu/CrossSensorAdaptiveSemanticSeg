@@ -19,14 +19,11 @@ In this work, we proposed a new point-level distribution alignment based on cont
 
 ## Quick start:
 
-1.Download checkpoint_100.tar and store it in the ./weights/
-
-Accessing the network cloud drive to download pre trained models：checkpoint_100.tar
-link: https://pan.baidu.com/s/1Ahi49JdoW1pDNvqH2dWcKQ?pwd=6666
-
-2.run sh quick_start_sample.sh
-
-3.View the canonical point cloud generated within the outputs
+    1.Download checkpoint_100.tar and store it in the ./weights/
+        Accessing the network cloud drive to download pre trained models：checkpoint_100.tar
+        link: https://pan.baidu.com/s/1Ahi49JdoW1pDNvqH2dWcKQ?pwd=6666
+    2.run sh quick_start_sample.sh
+    3.Canonical point clouds will be saved in ./outputs/
 
 
 ## Citation:
