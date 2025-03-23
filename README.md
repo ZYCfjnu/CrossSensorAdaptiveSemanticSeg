@@ -11,10 +11,15 @@ In this work, we proposed a new point-level distribution alignment based on cont
 ## Requirment:
 
 python==3.8
+
 pytorch==1.13.1+cu117
+
 torchvision==0.14.1+cu117
+
 numpy==1.24.3
+
 scipy==1.10.1
+
 configargparse==1.7
 
 
