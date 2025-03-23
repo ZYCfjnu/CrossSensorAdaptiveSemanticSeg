@@ -9,18 +9,12 @@ In this work, we proposed a new point-level distribution alignment based on cont
 <div align=center><img src="./figs/overall_workflow.png" height="284.5" width="750"></div>
 
 ## Requirment:
-
-python==3.8
-
-pytorch==1.13.1+cu117
-
-torchvision==0.14.1+cu117
-
-numpy==1.24.3
-
-scipy==1.10.1
-
-configargparse==1.7
+    python==3.8
+    pytorch==1.13.1+cu117
+    torchvision==0.14.1+cu117
+    numpy==1.24.3
+    scipy==1.10.1
+    configargparse==1.7
 
 
 ## Quick start:
