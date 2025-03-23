@@ -1,2 +1,2 @@
 #!/bin/bash
-python generate.py
+python -W ignore generate.py
